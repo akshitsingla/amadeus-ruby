@@ -64,7 +64,7 @@ amadeus = Amadeus::Client.new(hostname: :production)
 
 ## Documentation
 
-Amadeus has a large set of APIs, and our documentation is here to get you started today. Head over to our [reference documentation](https://amadeus4dev.github.io/amadeus-ruby/) for in-depth information about every SDK method, its arguments and return types.
+Amadeus has a large set of APIs, and our documentation is here to get you started today. For more details, check out the [Amadeus for Developers Portal](https://developers.amadeus.com) or the [SDK class reference](https://amadeus4dev.github.io/amadeus-ruby/).
 
 
   * [Get Started](https://amadeus4dev.github.io/amadeus-ruby/)
